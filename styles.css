@@ -1,0 +1,19 @@
+.kitty-pov-chat--portrait {
+  max-width: 50px;
+  max-height: 50px;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+.kitty-pov-chat--main {
+  max-height: 75px;
+  margin: 5px;
+}
+.kitty-pov-chat--menu {
+  margin-bottom: 5px;
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+}
+.kitty-pov-chat--select {
+  background-color: white;
+  margin-right: 5px;
+}

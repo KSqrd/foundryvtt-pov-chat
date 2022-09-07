@@ -1,0 +1,7 @@
+{
+  "kitty-pov-chat.header": "PoV Controls:",
+  "kitty-pov-chat.enableAuto": "Auto",
+  "kitty-pov-chat.enableAutoHint": "Automatically switch to PoV of selected token.",
+  "kitty-pov-chat.enableToken": "Token",
+  "kitty-pov-chat.enableTokenHint": "Show token name/icon in chat instead of actor name/icon."
+}
